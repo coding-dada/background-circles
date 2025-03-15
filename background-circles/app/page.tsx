@@ -70,7 +70,7 @@ const COLOR_VARIANTS = {
     },
 } as const;
 
-export function DemoCircles() {
+export default function Page() {
     const [currentVariant, setCurrentVariant] =
         useState<keyof typeof COLOR_VARIANTS>("octonary");
 
@@ -101,5 +101,3 @@ export function DemoCircles() {
         </>
     );
 }
-
-export default DemoCircles;
