@@ -114,5 +114,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [https://github.com/abhishekabysm/glowing-effect](https://github.com/abhishekabysm/glowing-effect)
 
 ---
-
-Part of [Kokonut UI](https://kokonut-ui.com) - Beautiful UI components for modern web applications.
