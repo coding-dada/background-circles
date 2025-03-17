@@ -14,7 +14,7 @@ A beautiful, responsive animated background circles component with multiple colo
 
 ## Demo
 
-Check out the live demo: [Background Circles Demo](https://background-circles-demo.vercel.app)
+Check out the live demo: [Background Circles Demo](https://bg-circles-cd.vercel.app)
 
 ## Installation
 
